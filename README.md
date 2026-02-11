@@ -1,5 +1,5 @@
 # Hi, I'm Harismitha S N 👋
-### Pursuing [Your Degree, e.g., B.E. in Computer Science]
+### Pursuing [MCA @ DSCE]
 
 > "Turning ideas into reality through code." ✨
 
