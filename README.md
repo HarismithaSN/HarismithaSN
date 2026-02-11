@@ -1,7 +1,7 @@
 # Hi, I'm Harismitha S N 👋
 ### MCA Student at Dayananda Sagar College of Engineering
 
-> "Turning coffee into code and ideas into reality." ☕💻✨
+> "Transforming logic into innovation and code into real-world impact." ✨⚙️
 
 [LINKEDIN](your-linkedin-link) | [GMAIL](mailto:your-email@gmail.com) | [PORTFOLIO](your-portfolio-link)
 
