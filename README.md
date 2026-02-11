@@ -1,18 +1,25 @@
-# Hi, I'm Harismitha S N 👋
-### MCA Student at Dayananda Sagar College of Engineering
+# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Harismitha+S+N+👋;MCA+Student+at+DSCE+🎓;Full-Stack+Web+Developer+💻;AI+and+ML+Enthusiast+🤖;Building+the+Future+with+Code+✨" alt="Typing SVG" /> </p>
 
-> "Transforming logic into innovation and code into real-world impact." ✨⚙️
-
-[LINKEDIN](your-linkedin-link) | [GMAIL](mailto:your-email@gmail.com) | [PORTFOLIO](your-portfolio-link)
+<p align="center">
+  <a href="https://www.linkedin.com/in/harismithasn/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:harismithasn@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://harismithasn.github.io/portfolio_harismithasn/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-FFB000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 👩‍💻 About Me
-I am a passionate **Master of Computer Applications (MCA)** student at **Dayananda Sagar College of Engineering**. My journey revolves around building robust backend systems, creating seamless full-stack experiences, and developing AI-driven solutions to solve real-world problems.
+I am a passionate **Master of Computer Applications (MCA)** student at **Dayananda Sagar College of Engineering**. My journey involves building robust backend systems, creating seamless full-stack experiences, and developing AI-driven solutions to solve real-world problems.
 
 * 🎓 Currently pursuing my MCA at **DSCE**.
-* 🤖 I recently developed an **AI Resume Analyzer & Job Recommender** using NLP.
-* 🏥 My **Diabetes Prediction System** helps identify health risks using Machine Learning.
+* 🤖 I developed an **AI Resume Analyzer & Job Recommender** that bridges the gap between talent and opportunities.
+* 🏥 My **Diabetes Prediction System** utilizes Machine Learning to provide data-driven health insights.
 * 👯 I’m looking to collaborate on **Open Source Python** and **Web Development** projects.
 
 ---
@@ -43,14 +50,10 @@ I am a passionate **Master of Computer Applications (MCA)** student at **Dayanan
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **AI Resume & Job Recommender** | Python, NLP, Streamlit | Extracts skills from resumes and matches them with ideal job roles using similarity scores. |
-| **Diabetes Prediction System** | Python, Django, ML | A web-based diagnostic tool predicting diabetes risk using patient health data. |
-| **KidApp — Learning for Kids** | HTML, CSS, JS | An interactive platform focused on making basic education fun for children. |
-| **Music Streaming Platform** | PHP, JS, MySQL | A dynamic music streaming site with user authentication and song management. |
-| **Personal Portfolio** | HTML, CSS, JS | A responsive site showcasing my skills, DSCE academic projects, and achievements. |
+| **AI Resume & Job Recommender** | Python, NLP, Streamlit | A recruitment tool that analyzes resumes to extract skills and recommends job openings based on similarity scores. |
+| **Diabetes Prediction System** | Python, Django, ML | A specialized web application that predicts diabetes risk in pregnant women using ML models. |
+| **KidApp — Learning for Kids** | HTML, CSS, JavaScript | An interactive and gamified educational platform designed to make learning engaging for children. |
+| **Music Streaming Platform** | PHP, JavaScript, MySQL | A full-stack music website featuring user authentication and a dynamic song library. |
+| **Personal Portfolio** | HTML, CSS, JS | A responsive personal website showcasing my academic journey at DSCE and software projects. |
 
 ---
-
-## 📊 GitHub Stats
-![Harismitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarismithaSN&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarismithaSN&layout=compact&theme=dark)
