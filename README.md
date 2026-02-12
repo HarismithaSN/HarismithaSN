@@ -24,7 +24,7 @@ I am a passionate **MCA student** at **Dayananda Sagar College of Engineering**.
 * 🎓 **Education:** Pursuing MCA at **DSCE**, specialized in **Advanced System Design**.
 * 🤖 **AI Impact:** Developed an **AI Resume Analyzer** and **Diabetes Prediction System**.
 * 🌐 **Full-Stack:** Created **KidApp** (educational) and dynamic **Music Platforms**.
-* 🗣️ **Linguistics:** Deepening my roots in **Sanskrit**, **Telugu**, and **Tamil**.
+* 🗣️ **Linguistics:** Deepening my roots in **Kannada**,**Sanskrit**, **Telugu**.
 
 ---
 
