@@ -1,59 +1,49 @@
-# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Harismitha+S+N+👋;MCA+Student+at+DSCE+🎓;Full-Stack+Web+Developer+💻;Building+the+Future+with+Code+✨" alt="Typing SVG" /> </p>
+# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Harismitha+S+N+👋;Master+of+Computer+Applications+🎓;AI+%26+Full-Stack+Architect+🤖;DSCE+Student+%7C+Linguist+%7C+Creator+✨" alt="Typing SVG" /> </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harismithasn/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:harismithasn@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://harismithasn.github.io/portfolio_harismithasn/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-FFB000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarismithaSN&layout=compact&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HarismithaSN&show_icons=true&theme=radical&hide_border=true" width="45%" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
-I am a passionate **Master of Computer Applications (MCA)** student at **Dayananda Sagar College of Engineering**. My journey involves building robust backend systems, creating seamless full-stack experiences, and developing AI-driven solutions to solve real-world problems.
+## 👩‍💻 The Digital Architect
+I am a passionate **Master of Computer Applications (MCA)** student at **Dayananda Sagar College of Engineering** who views code as a universal language. Whether I'm training **Machine Learning** models or studying **Sanskrit grammar**, I focus on the structural integrity of every "connection" I build.
 
-* 🎓 Currently pursuing my MCA at **DSCE**.
-* 🤖 I developed an **AI Resume Analyzer & Job Recommender** that bridges the gap between talent and opportunities.
-* 🏥 My **Diabetes Prediction System** utilizes Machine Learning to provide data-driven health insights.
-* 👯 I’m looking to collaborate on **Open Source Python** and **Web Development** projects.
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-### Frameworks & Libraries
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-%23336791.svg?style=for-the-badge&logo=oracle&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🌌 Current Orbit
+* 🎓 **Academic Pillar:** Advancing my MCA studies at **DSCE**, specialized in **Advanced System Design** and **Software Testing**.
+* 🤖 **AI Portfolio:** Developing high-impact solutions like my **AI Resume Analyzer** and **Diabetes Prediction System**.
+* 🌐 **Full-Stack:** Crafting seamless experiences like **KidApp** and dynamic **Music Platforms**.
+* 🗣️ **Polyglot Mindset:** Expanding my communication horizons through **Sanskrit**, **Telugu**, and **Tamil**.
+* 📖 **Analytical Depth:** Applying the narrative logic found in **Robert Louis Stevenson's** works to my software documentation.
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ My Creative Toolkit
 
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **AI Resume & Job Recommender** | Python, NLP, Streamlit | A recruitment tool that analyzes resumes to extract skills and recommends job openings based on similarity scores. |
-| **Diabetes Prediction System** | Python, Django, ML | A specialized web application that predicts diabetes risk in pregnant women using ML models. |
-| **KidApp — Learning for Kids** | HTML, CSS, JavaScript | An interactive and gamified educational platform designed to make learning engaging for children. |
-| **Music Streaming Platform** | PHP, JavaScript, MySQL | A full-stack music website featuring user authentication and a dynamic song library. |
-| **Personal Portfolio** | HTML, CSS, JS | A responsive personal website showcasing my academic journey at DSCE and software projects. |
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Logic** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| **Backend** | ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) |
+| **Data** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/-PL/SQL-F80000?logo=oracle&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) |
 
 ---
+
+## 🚀 Featured Innovations
+
+> **AI Resume & Job Recommender**
+> *A smart recruitment tool using NLP to bridge the gap between talent and opportunities.*
+
+> **Diabetes Prediction System**
+> *Leveraging Machine Learning to provide data-driven health insights for maternal care.*
+
+> **KidApp — Interactive Learning**
+> *A gamified educational platform designed specifically for children.*
+
+---
+
+## 📟 Project Logs
+```bash
+$fetch --profile Harismitha_SN --status "DSCE - MCA Candidate"$ status --focus "AI, Web & Linguistics"
+$ status --availability "Open for Open Source Collaborations"
