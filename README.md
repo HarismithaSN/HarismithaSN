@@ -7,28 +7,29 @@
 
 ---
 
-## 🌌 The Digital Architect's Vision
+## 👩‍💻 The Digital Architect's Vision
 I am a passionate **Master of Computer Applications (MCA)** student at **Dayananda Sagar College of Engineering**. I treat code as a universal language, bridging the gap between complex AI logic and human storytelling.
 
-### 🔭 Current Orbit
+### 🌌 Current Orbit
 * 🎓 **Academic Pillar:** Advancing my MCA studies at **DSCE**, specialized in **Advanced System Design** and **Software Testing**.
 * 🤖 **AI Portfolio:** Developing high-impact solutions like an **AI Resume Analyzer** and **Diabetes Prediction System**.
 * 🌐 **Full-Stack:** Crafting seamless experiences like **KidApp** and dynamic **Music Platforms**.
 * 🗣️ **Polyglot Mindset:** Expanding my communication horizons through **Sanskrit**, **Telugu**, and **Tamil**.
-* 📖 **Analytical Depth:** Applying the narrative logic of **Robert Louis Stevenson's** works to software documentation.
 
 ---
 
 ## 🛠 My Creative Toolkit
 
-### 💻 Languages & Frameworks
-![Skills](https://skillicons.dev/icons?i=py,java,js,html,css,django,flask,react,mysql,mongodb,php,git,postman&theme=dark)
+### 💻 Languages
+| | | | |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=py" /> <br> **Python** | <img src="https://skillicons.dev/icons?i=java" /> <br> **Java** | <img src="https://skillicons.dev/icons?i=js" /> <br> **JavaScript** | <img src="https://skillicons.dev/icons?i=html" /> <br> **HTML5** |
 
-### 📊 Technical Proficiencies
-* **Core Logic:** Python, Java, JavaScript.
-* **Backend:** Django, Flask, PHP.
-* **Databases:** MySQL, MongoDB, PL/SQL.
-* **Quality Assurance:** Verification & Validation, Defect Management.
+### 🚀 Frameworks & Databases
+| | | | |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=django" /> <br> **Django** | <img src="https://skillicons.dev/icons?i=flask" /> <br> **Flask** | <img src="https://skillicons.dev/icons?i=react" /> <br> **React** | <img src="https://skillicons.dev/icons?i=mysql" /> <br> **MySQL** |
+| <img src="https://skillicons.dev/icons?i=mongodb" /> <br> **MongoDB** | <img src="https://skillicons.dev/icons?i=php" /> <br> **PHP** | <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="40"/> <br> **PL/SQL** | <img src="https://skillicons.dev/icons?i=postman" /> <br> **Postman** |
 
 ---
 
@@ -67,5 +68,4 @@ I am a passionate **Master of Computer Applications (MCA)** student at **Dayanan
 ```bash
 $ git status --harismitha-sn
 # Location: Bengaluru, India (DSCE)
-# Languages: Studying Sanskrit, Telugu, Tamil
 # Availability: Open for Open Source Python & AI collaborations
