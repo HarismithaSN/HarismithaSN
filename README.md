@@ -1,8 +1,8 @@
 # <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Harismitha+S+N+👋;Master+of+Computer+Applications+🎓;AI+%26+Full-Stack+Architect+🤖;Building+the+Future+with+Code+✨" alt="Typing SVG" /> </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarismithaSN&show_icons=true&theme=radical&hide_border=true&title_color=36BCF7&icon_color=FFB000" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarismithaSN&layout=compact&theme=radical&hide_border=true&title_color=36BCF7" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HarismithaSN&show_icons=true&theme=radical&hide_border=true&title_color=36BCF7&icon_color=FFB000" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarismithaSN&layout=compact&theme=radical&hide_border=true&title_color=36BCF7" width="48%" alt="Top Languages" />
 </p>
 
 ---
@@ -11,10 +11,11 @@
 I am a passionate **Master of Computer Applications (MCA)** student at **Dayananda Sagar College of Engineering**. I treat code as a universal language, bridging the gap between complex AI logic and human storytelling.
 
 ### 🌌 Current Orbit
-* 🎓 **Academic Pillar:** Advancing my MCA studies at **DSCE**, specialized in **Advanced System Design** and **Software Testing**.
+* 🎓 **Academic Pillar:** Advancing my MCA studies at **DSCE**.
 * 🤖 **AI Portfolio:** Developing high-impact solutions like an **AI Resume Analyzer** and **Diabetes Prediction System**.
 * 🌐 **Full-Stack:** Crafting seamless experiences like **KidApp** and dynamic **Music Platforms**.
 * 🗣️ **Polyglot Mindset:** Expanding my communication horizons through **Sanskrit**, **Telugu**, and **Tamil**.
+* 📖 **Analytical Depth:** Applying the narrative logic found in **Robert Louis Stevenson's** works to my software documentation.
 
 ---
 
@@ -23,13 +24,13 @@ I am a passionate **Master of Computer Applications (MCA)** student at **Dayanan
 ### 💻 Languages
 | | | | |
 | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=py" /> <br> **Python** | <img src="https://skillicons.dev/icons?i=java" /> <br> **Java** | <img src="https://skillicons.dev/icons?i=js" /> <br> **JavaScript** | <img src="https://skillicons.dev/icons?i=html" /> <br> **HTML5** |
+| <img src="https://skillicons.dev/icons?i=py" height="45" /> <br> **Python** | <img src="https://skillicons.dev/icons?i=java" height="45" /> <br> **Java** | <img src="https://skillicons.dev/icons?i=js" height="45" /> <br> **JavaScript** | <img src="https://skillicons.dev/icons?i=html" height="45" /> <br> **HTML5** |
 
 ### 🚀 Frameworks & Databases
 | | | | |
 | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=django" /> <br> **Django** | <img src="https://skillicons.dev/icons?i=flask" /> <br> **Flask** | <img src="https://skillicons.dev/icons?i=react" /> <br> **React** | <img src="https://skillicons.dev/icons?i=mysql" /> <br> **MySQL** |
-| <img src="https://skillicons.dev/icons?i=mongodb" /> <br> **MongoDB** | <img src="https://skillicons.dev/icons?i=php" /> <br> **PHP** | <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="40"/> <br> **PL/SQL** | <img src="https://skillicons.dev/icons?i=postman" /> <br> **Postman** |
+| <img src="https://skillicons.dev/icons?i=django" height="45" /> <br> **Django** | <img src="https://skillicons.dev/icons?i=flask" height="45" /> <br> **Flask** | <img src="https://skillicons.dev/icons?i=react" height="45" /> <br> **React** | <img src="https://skillicons.dev/icons?i=mysql" height="45" /> <br> **MySQL** |
+| <img src="https://skillicons.dev/icons?i=mongodb" height="45" /> <br> **MongoDB** | <img src="https://skillicons.dev/icons?i=php" height="45" /> <br> **PHP** | <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="40"/> <br> **PL/SQL** | <img src="https://skillicons.dev/icons?i=postman" height="45" /> <br> **Postman** |
 
 ---
 
@@ -48,18 +49,6 @@ I am a passionate **Master of Computer Applications (MCA)** student at **Dayanan
       <b>Stack:</b> Python, Django, ML
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h3>🎨 KidApp - Learning</h3>
-      <p>An interactive, gamified educational platform for children.</p>
-      <b>Stack:</b> HTML, CSS, JavaScript
-    </td>
-    <td width="50%">
-      <h3>🎵 Music Streamer</h3>
-      <p>A full-stack website featuring dynamic song libraries.</p>
-      <b>Stack:</b> PHP, MySQL, JS
-    </td>
-  </tr>
 </table>
 
 ---
@@ -68,4 +57,4 @@ I am a passionate **Master of Computer Applications (MCA)** student at **Dayanan
 ```bash
 $ git status --harismitha-sn
 # Location: Bengaluru, India (DSCE)
-# Availability: Open for Open Source Python & AI collaborations
+# Availability: Open for Collaborations
