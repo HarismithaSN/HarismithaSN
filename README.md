@@ -1,4 +1,4 @@
-# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Harismitha+S+N+👋;MCA+Student+at+Dayananda+Sagar+🎓;AI+and+Machine+Learning+Enthusiast+🤖;Crafting+Digital+Experiences+✨" alt="Typing SVG" /> </p>
+# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Harismitha+S+N+👋;Master+of+Computer+Applications+🎓;AI+%26+Full-Stack+Architect+🤖;Building+the+Future+with+Code+✨" alt="Typing SVG" /> </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HarismithaSN&show_icons=true&theme=radical&hide_border=true&title_color=36BCF7&icon_color=FFB000" width="48%" />
@@ -7,15 +7,15 @@
 
 ---
 
-## 👩‍💻 The Digital Architect's Vision
-I am a **Master of Computer Applications (MCA)** student at **Dayananda Sagar College of Engineering**. I treat code as a universal language, bridging the gap between high-level AI logic and human storytelling.
+## 🌌 The Digital Architect's Vision
+I am a passionate **Master of Computer Applications (MCA)** student at **Dayananda Sagar College of Engineering**. I treat code as a universal language, bridging the gap between complex AI logic and human storytelling.
 
-### 🌌 Professional Orbit
-* 🎓 **Academic Pillar:** Currently pursuing my MCA at **DSCE**, specialized in **Advanced System Design** and **Software Testing**.
-* 🤖 **AI Portfolio:** Developed an **AI Resume Analyzer** and a **Diabetes Prediction System** to solve real-world recruitment and healthcare challenges.
-* 🌐 **Full-Stack:** Engineering seamless experiences like **KidApp** (educational gamification) and dynamic **Music Platforms**.
-* 🗣️ **Polyglot Mindset:** Beyond Python and Java, I study **Sanskrit grammar** and am learning **Telugu** and **Tamil**.
-* 📖 **Analytical Edge:** I apply the narrative structure of **Robert Louis Stevenson's** literature to my software documentation and architecture.
+### 🔭 Current Orbit
+* 🎓 **Academic Pillar:** Advancing my MCA studies at **DSCE**, specialized in **Advanced System Design** and **Software Testing**.
+* 🤖 **AI Portfolio:** Developing high-impact solutions like an **AI Resume Analyzer** and **Diabetes Prediction System**.
+* 🌐 **Full-Stack:** Crafting seamless experiences like **KidApp** and dynamic **Music Platforms**.
+* 🗣️ **Polyglot Mindset:** Expanding my communication horizons through **Sanskrit**, **Telugu**, and **Tamil**.
+* 📖 **Analytical Depth:** Applying the narrative logic of **Robert Louis Stevenson's** works to software documentation.
 
 ---
 
@@ -55,7 +55,7 @@ I am a **Master of Computer Applications (MCA)** student at **Dayananda Sagar Co
     </td>
     <td width="50%">
       <h3>🎵 Music Streamer</h3>
-      <p>A full-stack website featuring dynamic song libraries and auth.</p>
+      <p>A full-stack website featuring dynamic song libraries.</p>
       <b>Stack:</b> PHP, MySQL, JS
     </td>
   </tr>
