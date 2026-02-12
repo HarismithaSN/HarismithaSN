@@ -24,8 +24,6 @@ I am a passionate **MCA student** at **Dayananda Sagar College of Engineering**.
 * 🎓 **Education:** Pursuing MCA at **DSCE**, specialized in **Advanced System Design**.
 * 🤖 **AI Impact:** Developed an **AI Resume Analyzer** and **Diabetes Prediction System**.
 * 🌐 **Full-Stack:** Created **KidApp** (educational) and dynamic **Music Platforms**.
-* 🗣️ **Linguistics:** Deepening my roots in **Kannada**,**Sanskrit**, **Telugu**.
-
 ---
 
 ## 🛠 My Creative Toolkit
@@ -61,5 +59,4 @@ I am a passionate **MCA student** at **Dayananda Sagar College of Engineering**.
 ```bash
 $ git status --harismitha-sn
 # Location: Bengaluru, India (DSCE)
-# Languages: Sanskrit, Telugu, Tamil
 # Status: Ready for High-Impact Projects
