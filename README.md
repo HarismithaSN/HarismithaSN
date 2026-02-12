@@ -1,49 +1,71 @@
-# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Harismitha+S+N+👋;Master+of+Computer+Applications+🎓;AI+%26+Full-Stack+Architect+🤖;DSCE+Student+%7C+Linguist+%7C+Creator+✨" alt="Typing SVG" /> </p>
+# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Harismitha+S+N+👋;MCA+Student+at+Dayananda+Sagar+🎓;AI+and+Machine+Learning+Enthusiast+🤖;Crafting+Digital+Experiences+✨" alt="Typing SVG" /> </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarismithaSN&layout=compact&theme=radical&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=HarismithaSN&show_icons=true&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HarismithaSN&show_icons=true&theme=radical&hide_border=true&title_color=36BCF7&icon_color=FFB000" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarismithaSN&layout=compact&theme=radical&hide_border=true&title_color=36BCF7" width="48%" />
 </p>
 
 ---
 
-## 👩‍💻 The Digital Architect
-I am a passionate **Master of Computer Applications (MCA)** student at **Dayananda Sagar College of Engineering** who views code as a universal language. Whether I'm training **Machine Learning** models or studying **Sanskrit grammar**, I focus on the structural integrity of every "connection" I build.
+## 👩‍💻 The Digital Architect's Vision
+I am a **Master of Computer Applications (MCA)** student at **Dayananda Sagar College of Engineering**. I treat code as a universal language, bridging the gap between high-level AI logic and human storytelling.
 
-### 🌌 Current Orbit
-* 🎓 **Academic Pillar:** Advancing my MCA studies at **DSCE**, specialized in **Advanced System Design** and **Software Testing**.
-* 🤖 **AI Portfolio:** Developing high-impact solutions like my **AI Resume Analyzer** and **Diabetes Prediction System**.
-* 🌐 **Full-Stack:** Crafting seamless experiences like **KidApp** and dynamic **Music Platforms**.
-* 🗣️ **Polyglot Mindset:** Expanding my communication horizons through **Sanskrit**, **Telugu**, and **Tamil**.
-* 📖 **Analytical Depth:** Applying the narrative logic found in **Robert Louis Stevenson's** works to my software documentation.
+### 🌌 Professional Orbit
+* 🎓 **Academic Pillar:** Currently pursuing my MCA at **DSCE**, specialized in **Advanced System Design** and **Software Testing**.
+* 🤖 **AI Portfolio:** Developed an **AI Resume Analyzer** and a **Diabetes Prediction System** to solve real-world recruitment and healthcare challenges.
+* 🌐 **Full-Stack:** Engineering seamless experiences like **KidApp** (educational gamification) and dynamic **Music Platforms**.
+* 🗣️ **Polyglot Mindset:** Beyond Python and Java, I study **Sanskrit grammar** and am learning **Telugu** and **Tamil**.
+* 📖 **Analytical Edge:** I apply the narrative structure of **Robert Louis Stevenson's** literature to my software documentation and architecture.
 
 ---
 
-## 🛠️ My Creative Toolkit
+## 🛠 My Creative Toolkit
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Logic** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| **Backend** | ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) |
-| **Data** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/-PL/SQL-F80000?logo=oracle&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) |
+### 💻 Languages & Frameworks
+![Skills](https://skillicons.dev/icons?i=py,java,js,html,css,django,flask,react,mysql,mongodb,php,git,postman&theme=dark)
+
+### 📊 Technical Proficiencies
+* **Core Logic:** Python, Java, JavaScript.
+* **Backend:** Django, Flask, PHP.
+* **Databases:** MySQL, MongoDB, PL/SQL.
+* **Quality Assurance:** Verification & Validation, Defect Management.
 
 ---
 
 ## 🚀 Featured Innovations
 
-> **AI Resume & Job Recommender**
-> *A smart recruitment tool using NLP to bridge the gap between talent and opportunities.*
-
-> **Diabetes Prediction System**
-> *Leveraging Machine Learning to provide data-driven health insights for maternal care.*
-
-> **KidApp — Interactive Learning**
-> *A gamified educational platform designed specifically for children.*
+<table border="0">
+  <tr>
+    <td width="50%">
+      <h3>🤖 AI Resume Analyzer</h3>
+      <p>A smart recruitment tool using NLP to match talent with job roles.</p>
+      <b>Stack:</b> Python, Streamlit, NLP
+    </td>
+    <td width="50%">
+      <h3>🏥 Diabetes Prediction</h3>
+      <p>ML-driven health insights specialized for maternal care.</p>
+      <b>Stack:</b> Python, Django, ML
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🎨 KidApp - Learning</h3>
+      <p>An interactive, gamified educational platform for children.</p>
+      <b>Stack:</b> HTML, CSS, JavaScript
+    </td>
+    <td width="50%">
+      <h3>🎵 Music Streamer</h3>
+      <p>A full-stack website featuring dynamic song libraries and auth.</p>
+      <b>Stack:</b> PHP, MySQL, JS
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📟 Project Logs
+## 📟 System Status
 ```bash
-$fetch --profile Harismitha_SN --status "DSCE - MCA Candidate"$ status --focus "AI, Web & Linguistics"
-$ status --availability "Open for Open Source Collaborations"
+$ git status --harismitha-sn
+# Location: Bengaluru, India (DSCE)
+# Languages: Studying Sanskrit, Telugu, Tamil
+# Availability: Open for Open Source Python & AI collaborations
