@@ -80,4 +80,3 @@ I am a passionate **MCA student** at **Dayananda Sagar College of Engineering**.
 ## 📟 System Status
 ```bash
 $ git status --harismitha-sn
-# Location: Bengaluru, India (DSCE)
