@@ -76,7 +76,3 @@ I am a passionate **MCA student** at **Dayananda Sagar College of Engineering**.
 </table>
 
 ---
-
-## 📟 System Status
-```bash
-$ git status --harismitha-sn
