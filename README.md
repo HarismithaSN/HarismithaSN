@@ -23,7 +23,7 @@
 I am a passionate **MCA student** at **Dayananda Sagar College of Engineering**. I build at the intersection of AI logic and robust system design, ensuring every digital solution I create is scalable and efficient.
 
 ### 🌌 Current Orbit
-* 🎓 **Education:** Pursuing MCA at **DSCE**, specialized in **Advanced System Design** and **Software Testing**.
+* 🎓 **Education:** Pursuing MCA at **DSCE**.
 * 🤖 **AI Impact:** Developed an **AI Resume Analyzer** and **Diabetes Prediction System**.
 * 🌐 **Full-Stack:** Created **KidApp** (educational) and dynamic **Music Platforms**.
 * 📖 **Analytical Depth:** Applying the narrative logic of **Robert Louis Stevenson's** works to software documentation.
